@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="skx_323232">#323232</color>
+    <color name="skx_878787">#878787</color>
+    <color name="skx_33ff4081">#33ff4081</color>
+    <color name="skx_2cb298">#2cb298</color>
+    <color name="skx_2c3e50">#2c3e50</color>
+    <color name="skx_4dbbcf">#4dbbcf</color>
+    <color name="skx_007aff">#007aff</color>
+    <color name="skx_7f000000">#7f000000</color>
+    <color name="skx_85f3f3f3">#85f3f3f3</color>
+    <color name="skx_959ea7">#959ea7</color>
+</resources>
